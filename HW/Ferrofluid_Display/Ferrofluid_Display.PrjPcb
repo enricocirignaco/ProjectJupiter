@@ -143,6 +143,58 @@ DocumentUniqueId=
 DocumentPath=Project Outputs for Ferrofluid_Display\Design Rule Check - Ferrofluid_Display.html
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=Project Outputs for berry_case_altium\NC Drill\Ferrofluid_Display.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for berry_case_altium\Gerber\Ferrofluid_Display.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for berry_case_altium\Gerber\Ferrofluid_Display.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for berry_case_altium\Gerber\Ferrofluid_Display.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for berry_case_altium\Gerber\Ferrofluid_Display.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for berry_case_altium\Gerber\Ferrofluid_Display.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for berry_case_altium\Gerber\Ferrofluid_Display.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for berry_case_altium\Gerber\Ferrofluid_Display.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for berry_case_altium\Gerber\Ferrofluid_Display.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for berry_case_altium\NC Drill\Ferrofluid_Display.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for berry_case_altium\Gerber\Ferrofluid_Display.REP
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for berry_case_altium\Gerber\Ferrofluid_Display.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for berry_case_altium\NC Drill\Ferrofluid_Display.TXT
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
