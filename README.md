@@ -14,7 +14,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-    <img src="./resources/images/logo.jpg" alt="Logo" width="200">
+
   </a>
 
   <h2 align="center">ferrofluid_display</h2>
@@ -53,7 +53,7 @@
 <!-- ABOUT THE PROJECT -->
 # About The Project
 Develop and Build an affordable alternative to the expensive commercially available Clocks based on Ferrofluid.
-<img src="./resources/images/clock.jpg" alt="clock" width="600">
+
 
 ### Starting Situation
 
